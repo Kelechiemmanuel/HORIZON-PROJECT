@@ -49,7 +49,7 @@ function openProduct(el) {
 function backToList() {
     document.getElementById("product-detail").classList.remove("active");
     document.querySelector(".video-grid").style.display = "grid";
-      document.querySelector(".women-container").style.display = "block";
+      // document.querySelector(".women-container").style.display = "block";
 }
 
 // Quantity

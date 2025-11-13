@@ -32,7 +32,7 @@ function openProduct(el) {
 
     document.querySelector(".video-grid").style.display = "none";
     document.querySelector(".main-body").style.display = "none";
-    document.querySelector(".women-section").style.display = "none";
+    // document.querySelector(".women-section").style.display = "none";
     document.getElementById("product-detail").classList.add("active");
 }
 
